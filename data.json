@@ -1384,5 +1384,797 @@
     "summary": "집단에너지 설비의 안전관리, 점검·정비 기준 및 운영 절차 규정.",
     "updatedAt": "2022-09-13",
     "source": ""
+  },
+  {
+    "country": "UK",
+    "category": "법률",
+    "title": "영국_Distributed Energy Market Policy Guidance (Ofgem, 2019)",
+    "summary": "Ref: 87 /08 Distributed Energy - Further Proposals for More Flexible",
+    "updatedAt": "2007-01-01",
+    "source": "",
+    "id": "uk-001"
+  },
+  {
+    "country": "UK",
+    "category": "법률",
+    "title": "영국_Electricity Act 1989",
+    "summary": "Changes to legislation: Electricity Act 1989 is up to date with all changes known to be in force on or before 05",
+    "updatedAt": "1989-01-01",
+    "source": "",
+    "id": "uk-002"
+  },
+  {
+    "country": "UK",
+    "category": "법률",
+    "title": "영국_Electricity Distribution Consolidated Standard Licence Conditions",
+    "summary": "Standard conditions of the Electricity Distribution Licen see – 10 June  2025",
+    "updatedAt": "2025-01-01",
+    "source": "",
+    "id": "uk-003"
+  },
+  {
+    "country": "UK",
+    "category": "시행규칙",
+    "title": "영국_Electricity Safety, Quality and Continuity Regulations 2002",
+    "summary": "STATUTORY INSTRUMENTS",
+    "updatedAt": "2002-01-01",
+    "source": "",
+    "id": "uk-004"
+  },
+  {
+    "country": "UK",
+    "category": "기타",
+    "title": "영국_Electricity Trading Arrangements",
+    "summary": "Guidance from the Secretary of State for",
+    "updatedAt": "2021-01-01",
+    "source": "",
+    "id": "uk-005"
+  },
+  {
+    "country": "UK",
+    "category": "법률",
+    "title": "영국_Energy Act 2013",
+    "summary": "Explanatory Notes have been produced to assist in the",
+    "updatedAt": "2013-01-01",
+    "source": "",
+    "id": "uk-006"
+  },
+  {
+    "country": "UK",
+    "category": "법률",
+    "title": "영국_Great British Energy Act 2025",
+    "summary": "Great  British  Energy",
+    "updatedAt": "2025-01-01",
+    "source": "",
+    "id": "uk-007"
+  },
+  {
+    "country": "UK",
+    "category": "기타",
+    "title": "영국_The Promotion of the Use of Energy from Renewable Sources",
+    "summary": "STATUTORY INSTRUMENTS",
+    "updatedAt": "2011-01-01",
+    "source": "",
+    "id": "uk-008"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "우크라이나_National Energy and Utilities Regulatory Commission (NEURC) Resolutions",
+    "summary": "NATIONAL ENERGY AND UTILITIES REGULATORY COMMISSION",
+    "updatedAt": "2024-01-01",
+    "source": "",
+    "id": "eu-009"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "우크라이나_On Amendments to Certain Laws of Ukraine on the Restoration and Green Transformation of the Energy System of Ukraine",
+    "summary": "UkraineGenerating Electricity",
+    "updatedAt": "2016-01-01",
+    "source": "",
+    "id": "eu-010"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "우크라이나_On the Electricity Market No. 2019-VIII (2017)",
+    "summary": "Про ринок електричної енергії",
+    "updatedAt": "2017-01-01",
+    "source": "",
+    "id": "eu-011"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "우크라이나_Rules of Exchange Trading on Ukrainian Energy Exchange",
+    "summary": "by the decision of the Exchange Committee",
+    "updatedAt": "2020-01-01",
+    "source": "",
+    "id": "eu-012"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "우크라이나_에너지 및 공공시설 분야의 국가규제위원회에 관한 법률_원문본(2023.08.07. 일부개정)",
+    "summary": "З А К О Н У К Р А Ї Н И",
+    "updatedAt": "2016-01-01",
+    "source": "",
+    "id": "eu-013"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "우크라이나_에너지토지와 에너지산업체 특별구역의 법적 제도에 관한 법률_원문본(2023.10.01 일부개정)",
+    "summary": "З А К О Н У К Р А Ї Н И",
+    "updatedAt": "2011-01-01",
+    "source": "",
+    "id": "eu-014"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "EU-2024-1711호 전력시장 디자인",
+    "summary": "DIRECTIVE (EU) 2024/1711 OF THE EUR OPEAN PARLIAMENT AND OF THE COUNCIL",
+    "updatedAt": "2024-01-01",
+    "source": "",
+    "id": "eu-015"
+  },
+  {
+    "country": "EU",
+    "category": "고시",
+    "title": "EU_2019-943호 전력시장 규정",
+    "summary": "REGUL ATION (EU) 2019/943 OF THE EUR OPEAN PARLIAMENT AND OF THE COUNCIL",
+    "updatedAt": "2019-01-01",
+    "source": "",
+    "id": "eu-016"
+  },
+  {
+    "country": "EU",
+    "category": "고시",
+    "title": "EU_2022-2577호 재생에너지 촉진 임시 특별 규정",
+    "summary": "COUNCIL REGUL ATION (EU) 2022/2577",
+    "updatedAt": "2022-01-01",
+    "source": "",
+    "id": "eu-017"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "EU_2022-869호 재생에너지 정책",
+    "summary": "REGUL ATION (EU) 2022/869 OF THE EUR OPEAN PARLIAMENT AND OF THE COUNCIL",
+    "updatedAt": "2022-01-01",
+    "source": "",
+    "id": "eu-018"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "EU_2023-2413호 재생에너지 지침(RED III)",
+    "summary": "ELI: http://data.europa.eu/eli/dir/2023/2413/oj 1/77DIRECTIVE (EU) 2023/2413 OF THE EUR OPEAN PARLIAMENT AND OF THE COUNCIL",
+    "updatedAt": "2023-01-01",
+    "source": "",
+    "id": "eu-019"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "EU_2024-1106호 에너지시장 감시 규정",
+    "summary": "REGUL ATION (EU) 2024/1106 OF THE EUR OPEAN PARLIAMENT AND OF THE COUNCIL",
+    "updatedAt": "2024-01-01",
+    "source": "",
+    "id": "eu-020"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "EU_2024-1747호 전력시장 개혁 규정",
+    "summary": "REGUL ATION (EU) 2024/1747 OF THE EUR OPEAN PARLIAMENT AND OF THE COUNCIL",
+    "updatedAt": "2024-01-01",
+    "source": "",
+    "id": "eu-021"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "네덜란드_(ACM) 균형 시장 및 불균형 가격 설정 운영 원칙",
+    "summary": "ACM/UIT/522679 ACM Position Paper",
+    "updatedAt": "5226-79-01",
+    "source": "",
+    "id": "eu-022"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "네덜란드_(TenneT) The Imbalance Pricing System",
+    "summary": "The Imbalance Pricing System",
+    "updatedAt": "2016-01-01",
+    "source": "",
+    "id": "eu-023"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "네덜란드_Electricity Act 1998",
+    "summary": "...",
+    "updatedAt": "",
+    "source": "",
+    "id": "eu-024"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "네덜란드_Offshore Wind Energy Act",
+    "summary": "zijn nog niet alle wijzigingen verwerkt op de datum van inwerkingtreding en ziet u een oude versie van de tekst. Raa",
+    "updatedAt": "2026-01-01",
+    "source": "",
+    "id": "eu-025"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "네덜란드_Regulation of power exchanges",
+    "summary": "The introduction of qualit y regulation of electricity distribution in The",
+    "updatedAt": "2006-01-01",
+    "source": "",
+    "id": "eu-026"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "네덜란드_Renewable Energy Support Schemes and Guarantees of Origin",
+    "summary": "Energy Decree ( link to Dutch version)",
+    "updatedAt": "2009-01-01",
+    "source": "",
+    "id": "eu-027"
+  },
+  {
+    "country": "Germany",
+    "category": "법률",
+    "title": "독일_Act on the Development of Renewable Energy Sources (Renewable Energy Sources Act 2014",
+    "summary": "Act on the Development of Renewable Energy Sources",
+    "updatedAt": "2014-01-01",
+    "source": "",
+    "id": "germany-028"
+  },
+  {
+    "country": "Germany",
+    "category": "법률",
+    "title": "독일_Energy Industry Act (EnWG)",
+    "summary": "Emergency Plan for Gas",
+    "updatedAt": "2017-01-01",
+    "source": "",
+    "id": "germany-029"
+  },
+  {
+    "country": "Germany",
+    "category": "법률",
+    "title": "독일_Renewable Energy Sources Act (EEG 2017 EEG 2023)",
+    "summary": "Renewable Energy Sources Act (EEG 2017)",
+    "updatedAt": "2017-01-01",
+    "source": "",
+    "id": "germany-030"
+  },
+  {
+    "country": "Germany",
+    "category": "기타",
+    "title": "독일_에너지경제법_원문본(2025.02.21.개정)",
+    "summary": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für",
+    "updatedAt": "2005-01-01",
+    "source": "",
+    "id": "germany-031"
+  },
+  {
+    "country": "Germany",
+    "category": "기타",
+    "title": "독일_에너지효율법_원문본(2023.11.13.제정)",
+    "summary": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für",
+    "updatedAt": "2023-01-01",
+    "source": "",
+    "id": "germany-032"
+  },
+  {
+    "country": "Germany",
+    "category": "기타",
+    "title": "독일_재생에너지 확대를 위한 법률_원문본(2024.05.08.개정)",
+    "summary": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für",
+    "updatedAt": "2023-01-01",
+    "source": "",
+    "id": "germany-033"
+  },
+  {
+    "country": "Germany",
+    "category": "기타",
+    "title": "독일_해상풍력에너지법_원문본(2024.10.23.개정)",
+    "summary": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für",
+    "updatedAt": "2016-01-01",
+    "source": "",
+    "id": "germany-034"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "벨기에_(Elia) Rules for suspension and restoration of market",
+    "summary": "Rules for suspension and restoration of market",
+    "updatedAt": "2017-01-01",
+    "source": "",
+    "id": "eu-035"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "벨기에_Belgium National renewable energy action plan",
+    "summary": "BELGIUM National renewable energy action plan",
+    "updatedAt": "2009-01-01",
+    "source": "",
+    "id": "eu-036"
+  },
+  {
+    "country": "EU",
+    "category": "고시",
+    "title": "벨기에_Capacity remuneration mechanism",
+    "summary": "COMMISSION DECISION (EU) 2022/639",
+    "updatedAt": "2022-01-01",
+    "source": "",
+    "id": "eu-037"
+  },
+  {
+    "country": "EU",
+    "category": "고시",
+    "title": "벨기에_에너지 부문의 수급안정 보장 및 원자력에너지 분야 개혁에 관한 법률_원문본(2024.04.26.제정)",
+    "summary": "26 AVRIL 2024. - Loi du 26 avril 2024 portant la garantie de la sécurité",
+    "updatedAt": "2024-00-01",
+    "source": "",
+    "id": "eu-038"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "스페인_Day-ahead and Intraday Market Operating Rules",
+    "summary": "DAY -AHEAD  AND INTRADAY ELECTRICITY MARKET OPERATING RULES",
+    "updatedAt": "2019-01-01",
+    "source": "",
+    "id": "eu-039"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Law 24-2013 on the Electric sector",
+    "summary": "BOLETÍN OFICIAL DEL ESTADO",
+    "updatedAt": "2013-01-01",
+    "source": "",
+    "id": "eu-040"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Law 7-2021 on climate change and energy transition",
+    "summary": "BOLETÍN OFICIAL DEL ESTADO",
+    "updatedAt": "2021-01-01",
+    "source": "",
+    "id": "eu-041"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Main energy-related regulatory",
+    "summary": "1 January 2024ANALYSIS",
+    "updatedAt": "2024-01-01",
+    "source": "",
+    "id": "eu-042"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_New-regulatory-framework-for-renewables-in-Spain",
+    "summary": "The information contained in this  communication is not intended to constitut e legal advice by the author/s or the attorneys at Araoz &",
+    "updatedAt": "2014-01-01",
+    "source": "",
+    "id": "eu-043"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Renewable Energy Law 및 통합 국가 에너지기후계획 (INECP 2021–2030)",
+    "summary": "theRenewable Energy Law ReviewSixth EditionRenewable",
+    "updatedAt": "2023-01-01",
+    "source": "",
+    "id": "eu-044"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Royal Decree 15-2018 on urgent measures for energy transition and consumer protection",
+    "summary": "BOLETÍN OFICIAL DEL ESTADO",
+    "updatedAt": "2018-01-01",
+    "source": "",
+    "id": "eu-045"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Royal Decree 17-2019 establishing the new rate of reasonable return for renewable energy",
+    "summary": "Real Decreto-ley 17/2019, de 22 de noviembre, por el que se adoptan",
+    "updatedAt": "2019-01-01",
+    "source": "",
+    "id": "eu-046"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Royal Decree 2-2013, which implements urgent measures in the electricity and financial sectors",
+    "summary": "BOLETÍN OFICIAL DEL ESTADO",
+    "updatedAt": "2013-01-01",
+    "source": "",
+    "id": "eu-047"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Royal Decree 359-2017 Setting a Call for the Allocation of the Specific Compensation Regime for New Plants of Electricity Production from RES, Located in the Mainland Electricity System",
+    "summary": "BOLETÍN OFICIAL DEL ESTADO",
+    "updatedAt": "2017-01-01",
+    "source": "",
+    "id": "eu-048"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Royal Decree 650-2017 Setting a Quota of 3000 MW of Installed Capacity for New Plants of Electricity Production from RES Located in the Mainland Electricity System",
+    "summary": "Orden ETU/615/2017, de 27 de junio, por la que se determina el",
+    "updatedAt": "2017-01-01",
+    "source": "",
+    "id": "eu-049"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Royal Decree 900-2015 on Energy Self-Consumption",
+    "summary": "BOLETÍN OFICIAL DEL ESTADO",
+    "updatedAt": "2015-01-01",
+    "source": "",
+    "id": "eu-050"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Royal Decree 960-2020 Regulating the Economic Regime of Renewable Energy for Electric Power Production Facilities",
+    "summary": "Real Decreto 960/2020, de 3 de noviembre, por el que se regula el",
+    "updatedAt": "2020-01-01",
+    "source": "",
+    "id": "eu-051"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_Royal Decree 962-2024 on electricity production from renewable marine source",
+    "summary": "Real Decreto 376/2022, de 17 de mayo, por el que se regulan los",
+    "updatedAt": "2022-01-01",
+    "source": "",
+    "id": "eu-052"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "스페인_Spanish Electricity Market Activity Rules",
+    "summary": "ELECTRICITY MARKET ACTIVITY RULES",
+    "updatedAt": "2001-01-01",
+    "source": "",
+    "id": "eu-053"
+  },
+  {
+    "country": "EU",
+    "category": "시행규칙",
+    "title": "스페인_The-Energy-Regulation-and-Markets-Review-Spain",
+    "summary": "theEnergy Regulation and",
+    "updatedAt": "2023-01-01",
+    "source": "",
+    "id": "eu-054"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "스페인_안달루시아 신재생에너지, 에너지 절약 및 효율 촉진에 관한 법_원문본(2024.02.06. 개정)",
+    "summary": "19568 Lunes 7 mayo 2007 BOE núm. 109",
+    "updatedAt": "1956-08-01",
+    "source": "",
+    "id": "eu-055"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "오스트리아_Electricity Act 2010",
+    "summary": "This document contains a non -binding English version of a consolidated legal text. It is provided for the",
+    "updatedAt": "2010-01-01",
+    "source": "",
+    "id": "eu-056"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "오스트리아_Electricity Market",
+    "summary": "The English version of this document i s provided for the reader’s convenience only, it does in no way constitute a binding do c-",
+    "updatedAt": "2013-01-01",
+    "source": "",
+    "id": "eu-057"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "오스트리아_Renewable Energy Expansion Act",
+    "summary": "This document contains a non -binding English version of a consolidated legal text. It is provided for the",
+    "updatedAt": "2021-01-01",
+    "source": "",
+    "id": "eu-058"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "오스트리아_연방에너지효율법_원문본(2024.04.17.개정)",
+    "summary": "Bundesrecht konsolidiert",
+    "updatedAt": "2025-01-01",
+    "source": "",
+    "id": "eu-059"
+  },
+  {
+    "country": "Italy",
+    "category": "기타",
+    "title": "이탈리아_Energy Decree no. 34-2022",
+    "summary": "On 28 April 2022, the Law no. 34 converting in law the Law Decree no. 17 of 1st March 2022, concerning",
+    "updatedAt": "2022-01-01",
+    "source": "",
+    "id": "italy-060"
+  },
+  {
+    "country": "Italy",
+    "category": "기타",
+    "title": "이탈리아_Italy The 2019-2020 incentives regime for renewable energy plants",
+    "summary": "Italy Energy law  •  1 1  •  Italy Energy Law",
+    "updatedAt": "2019-20-01",
+    "source": "",
+    "id": "italy-061"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "포르투갈_재생 가능 에너지 규제 체제를 개정하는 법률명령 _원문본(2024.12.03.제정) - 복사본",
+    "summary": "...",
+    "updatedAt": "",
+    "source": "",
+    "id": "eu-062"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "포르투갈_재생 가능 에너지 규제 체제를 개정하는 법률명령 _원문본(2024.12.03.제정)",
+    "summary": "...",
+    "updatedAt": "",
+    "source": "",
+    "id": "eu-063"
+  },
+  {
+    "country": "France",
+    "category": "기타",
+    "title": "프랑스_Energy Transition for Green Growth Law (2015)",
+    "summary": "LOI no 2015-992 du 17 août 2015 relative à la transition énergétique",
+    "updatedAt": "2015-99-01",
+    "source": "",
+    "id": "france-064"
+  },
+  {
+    "country": "France",
+    "category": "기타",
+    "title": "프랑스_The French Energy Transition Law",
+    "summary": "Institut du développement durable",
+    "updatedAt": "7533-07-01",
+    "source": "",
+    "id": "france-065"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "튀르키예_에너지시장 규제기관 조직 및 직무에 관한 법률_원문본(2023.12.07.개정)",
+    "summary": "ENERJİ PİYASASI DÜZENLEME KURUMUNUN TEŞKİLAT VE",
+    "updatedAt": "4628-01-01",
+    "source": "",
+    "id": "eu-066"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "튀르키예_에너지효율법_원문본(2024.05.02.개정)",
+    "summary": "ENERJİ VERİMLİLİĞİ KANUNU",
+    "updatedAt": "5627-01-01",
+    "source": "",
+    "id": "eu-067"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "튀르키예_전기에너지 생산을 목적으로 하는 재생 가능한 에너지원의 사용에 관한 법률_원문본(2024.05.02.개정)",
+    "summary": "YENİLENEBİLİR ENERJİ KAYNAKLARININ ELEKTRİK ENERJİSİ",
+    "updatedAt": "5346-01-01",
+    "source": "",
+    "id": "eu-068"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "Clean Energy (Charges—Customs) Act 2011",
+    "summary": "Note: An electronic version of this Act is available in ComLa w (http://www.comlaw.gov.au/ )",
+    "updatedAt": "2011-01-01",
+    "source": "",
+    "id": "eu-069"
+  },
+  {
+    "country": "EU",
+    "category": "기타",
+    "title": "Clean Energy (International Unit Surrender Charge) Bill 2011",
+    "summary": "Note: An electronic version of this Act is available in ComLaw ( http://www.comlaw.gov.au/ )",
+    "updatedAt": "2011-01-01",
+    "source": "",
+    "id": "eu-070"
+  },
+  {
+    "country": "EU",
+    "category": "법률",
+    "title": "Clean Energy Regulator Act 2011",
+    "summary": "Clean Energy Regulator Act 2011",
+    "updatedAt": "2011-01-01",
+    "source": "",
+    "id": "eu-071"
+  },
+  {
+    "country": "Australia",
+    "category": "기타",
+    "title": "호주_2000 재생에너지(전기)법_원문본(2022.09.20.개정)",
+    "summary": "Prepared by the Office of Parliamentary Counsel, Canberra",
+    "updatedAt": "2000-01-01",
+    "source": "",
+    "id": "australia-072"
+  },
+  {
+    "country": "Australia",
+    "category": "기타",
+    "title": "호주_2007 국가 온실가스 및 에너지 보고법_원문본(2021.11.09.개정)",
+    "summary": "Prepared by the Office of Parliamentary Counsel, Canberra",
+    "updatedAt": "2007-01-01",
+    "source": "",
+    "id": "australia-073"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_Australian Energy Market Act 2004 (2021 Ed.)",
+    "summary": "Prepared by the Office of Parliamentary Counsel, Canberra",
+    "updatedAt": "2004-01-01",
+    "source": "",
+    "id": "australia-074"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_Australian Renewable Energy Agency (ARENA Act)",
+    "summary": "Prepared by the Office of Parliamentary Counsel, Canberra",
+    "updatedAt": "2011-01-01",
+    "source": "",
+    "id": "australia-075"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_Clean Energy Finance Corporation Act 2012",
+    "summary": "Prepared by the Office of Parliamentary Counsel, Canberra",
+    "updatedAt": "2012-01-01",
+    "source": "",
+    "id": "australia-076"
+  },
+  {
+    "country": "Australia",
+    "category": "시행규칙",
+    "title": "호주_Electricity (General) Regulations 2012",
+    "summary": "Published under the Legislation Revision and Publication Act 2002  1 South Australia",
+    "updatedAt": "2024-01-01",
+    "source": "",
+    "id": "australia-077"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_Electricity Industry Amendment (Distributed Energy Resources) Act 2024",
+    "summary": "As at 07 Mar 2024  Official Version  No. 1 of 2024",
+    "updatedAt": "2024-01-01",
+    "source": "",
+    "id": "australia-078"
+  },
+  {
+    "country": "Australia",
+    "category": "시행규칙",
+    "title": "호주_Electricity Regulations 1947",
+    "summary": "As at 30 Sep 2009 Version 04-e0-03",
+    "updatedAt": "2009-01-01",
+    "source": "",
+    "id": "australia-079"
+  },
+  {
+    "country": "Australia",
+    "category": "기타",
+    "title": "호주_electricity_system_and_market_rules_4_june_2025",
+    "summary": "ELECTRICITY INDUSTRY ACT  2004",
+    "updatedAt": "2004-01-01",
+    "source": "",
+    "id": "australia-080"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_National Electricity (South Australia) Act 1996",
+    "summary": "Published under the Legislation Revision and Publication Act 2002  1 South Australia",
+    "updatedAt": "2025-01-01",
+    "source": "",
+    "id": "australia-081"
+  },
+  {
+    "country": "Australia",
+    "category": "기타",
+    "title": "호주_National Electricity Amendment (Register of distributed energy resources) Rule 2018 No. 9",
+    "summary": "National Electricity Amendment ( Register of distributed",
+    "updatedAt": "2018-01-01",
+    "source": "",
+    "id": "australia-082"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_National Electricity Rules Version 160",
+    "summary": "National Electricity Rules",
+    "updatedAt": "2021-01-01",
+    "source": "",
+    "id": "australia-083"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_National Electricity Rules Version 234",
+    "summary": "National Electricity Rules",
+    "updatedAt": "2025-01-01",
+    "source": "",
+    "id": "australia-084"
+  },
+  {
+    "country": "Australia",
+    "category": "기타",
+    "title": "호주_National Energy Retail Law (Queensland)",
+    "summary": "National Energy Retail Law",
+    "updatedAt": "2021-01-01",
+    "source": "",
+    "id": "australia-085"
+  },
+  {
+    "country": "Australia",
+    "category": "고시",
+    "title": "호주_National Energy Retail Rules Version 29",
+    "summary": "National Energy Retail Rules",
+    "updatedAt": "2021-01-01",
+    "source": "",
+    "id": "australia-086"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_Renewable Energy (Electricity) Act 2000 (RET Act)",
+    "summary": "Prepared by the Office of Parliamentary Counsel, Canberra",
+    "updatedAt": "2000-01-01",
+    "source": "",
+    "id": "australia-087"
+  },
+  {
+    "country": "Australia",
+    "category": "법률",
+    "title": "호주_국가전력법",
+    "summary": "National Electricity Rules",
+    "updatedAt": "2021-01-01",
+    "source": "",
+    "id": "australia-088"
   }
 ]
